@@ -1,0 +1,4 @@
+language: java
+script:
+  - jdk_switcher use oraclejdk7
+  - # do stuff with Java 7
