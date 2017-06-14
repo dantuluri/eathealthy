@@ -8,5 +8,5 @@ Explanation of game: https://www.youtube.com/watch?v=AQCh_zEB3yA
 
 Gameplay: https://www.youtube.com/watch?v=TtVRdAvBw9Q
 
-![Calvin feeling great!](https://dantuluri.github.com/eathealthy/game.png)
+![Calvin feeling great!](https://github.com/dantuluri/eathealthy/game.png)
 
