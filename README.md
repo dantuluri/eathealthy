@@ -2,7 +2,7 @@
 
 Game-in-5-Weeks MVHS 2017 Project Made by Surya Dantuluri and images created by respected authors with alteration to each of the images.
 
-## Code **intentionally** does not work. Should be used for educational purposes only. If you want to see the real working code, shoot me an email at surya@dantuluri.tech
+## Code **intentionally** does not work. Should be used for educational purposes only. If you want to see the real working code, shoot me an email.
 
 Explanation of game: https://www.youtube.com/watch?v=AQCh_zEB3yA
 
